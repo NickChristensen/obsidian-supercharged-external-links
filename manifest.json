@@ -1,0 +1,9 @@
+{
+	"id": "supercharged-external-links",
+	"name": "Supercharged External Links",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Style external links based on their URLs. Adds data-href-domain, data-href-protocol, and custom CSS classes to external links in reading and live preview mode.",
+	"author": "nick",
+	"isDesktopOnly": false
+}
